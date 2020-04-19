@@ -1,1 +1,7 @@
 .idea
+.classpath
+.project
+.settings
+OuyaGameJam/bin/*/
+OuyaGameJam/libs
+OuyaGameJam-desktop/libs
